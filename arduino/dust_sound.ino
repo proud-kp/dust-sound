@@ -38,8 +38,8 @@ static float Voc = 0.95;
 // Use the typical sensitivity in units of V per 100ug/m3.
 const float K = 0.5;
 
-const char* ssid     = "Shi";
-const char* password = "charshu123";
+const char* ssid     = "praearporn";
+const char* password = "mafia12345";
   
 /////////////////////////////////////////////////////////////////////////////
 
